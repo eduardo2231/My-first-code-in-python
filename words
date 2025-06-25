@@ -1,3 +1,5 @@
+# Class 9.5 in Python for everbody.
+
 name = input("Enter file:")
 if len(name) < 1:
     name = "mbox-short.txt"
