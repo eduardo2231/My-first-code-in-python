@@ -3,6 +3,7 @@ My-first-code-in-python
 
 It's a simple code that finds lines starting with "From:" extracts those lines and counts them all.
 
+When prompted type 'mbox-short.txt'   🔥🔥
 
 
 
